@@ -1,12 +1,12 @@
 .caro{
 	
 	height: 300px;
-	width: 70%;
-	margin-left:240px;
+	width: 100%;
+	
 }
 .cone{
    background-color: coral;
-   margin-top:400px;
+   margin-top:600px;
 }
 .jum{
 	margin-top:100px;
@@ -21,10 +21,10 @@
 	margin-top: -300px;
 }
 .form{
-	width:30%;
-	margin-left: 500px;
-	background-color: darkturquoise;
-	padding: 30px;
+	background-color:purple;
+	margin-top: 100px;
+	width:70%;
+	margin-left:100px;
 	
 }
 .lab{
@@ -45,9 +45,21 @@
    color: red;
 }
 .move{
-	width: 50%;
-	margin-left:400px;
+	width: 100%;
+	
 }
 .but{
 	height:50px;
+}
+.ima{
+	width:60%;
+	height:500px;
+}
+#do{
+	text-align:left;
+	margin-left: 100px;
+	position:relative;
+}
+.lab{
+	color: white;
 }
