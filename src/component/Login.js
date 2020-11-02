@@ -1,14 +1,17 @@
-import React from 'react';
+import React,{useState,useContext}from 'react';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
-import {useState} from 'react';
 import {Link} from 'react-router-dom';
+import { Theme } from './ThemeProvider';
+
 
 function Login() {
 
     const[email,setEmail]=useState("");
     const[password,setPassword]=useState("");
     const[login,setLogin]=useState(false);
+    const currentTheme = useContext(Theme)[0];
+    
 
     const handleInputEmail=(event)=>{
         setEmail (event.target.value)
@@ -26,7 +29,7 @@ function Login() {
    
     
     return (
-        <div>
+        <div className={ `bg-${currentTheme}` }>
          <h3>Please Login here</h3>
          <Form onSubmit={Login} className="form">
   <Form.Group controlId="formBasicEmail">

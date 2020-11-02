@@ -44,3 +44,10 @@
 #al{
    color: red;
 }
+.move{
+	width: 50%;
+	margin-left:400px;
+}
+.but{
+	height:50px;
+}
