@@ -14,23 +14,24 @@ import Pest2 from './img/bet1.jpg';
 
 
 const Routes=()=>{
-  const server = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyDoCvneKACzoJJWpn6Na1oFVgoAg4WTj4I&callback=initMap';
+//   const server = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyDoCvneKACzoJJWpn6Na1oFVgoAg4WTj4I&callback=initMap';
   
- const [ googleMap, setgoogleMap ] = useState({})
+//  const [ googleMap, setgoogleMap ] = useState({})
 
-   const fetchDto=()=>{
-    axios.get(server).then((result)=>{
-        setgoogleMap(result);
-        console.log(result)
-     })
-    }
+//    const fetchDto=()=>{
+//     axios.get(server).then((result)=>{
+//         setgoogleMap(result);
+//          console.log(server)
+//      })
+//     }
 
-     useEffect(() => {
-     fetchDto();
+//      useEffect(() => {
+//      fetchDto();
     
-   }, [])
+//    }, [])
   
     return(
+      
     <BrowserRouter>
     
           <Switch>
