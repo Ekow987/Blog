@@ -8,7 +8,7 @@ function Grid() {
         <div>
 <Container fluid className="col">
   <Row>
-    <Col>Copywrite by Albert Ansah</Col>
+    <Col>Copyright@TechnoFarmers</Col>
   </Row>
 </Container> 
         </div>

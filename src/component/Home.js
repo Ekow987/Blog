@@ -3,9 +3,10 @@ import { Theme } from './ThemeProvider';
 import {postArray} from './Posts';
 import Post from './Post';
 import Carousel from './Carousel';
-import Card from './Card';
-import Footer from './Footer';
-import ImgCard from './ImgCard';
+import Navbar from './Navigation';
+// import Card from './Card';
+
+// import ImgCard from './ImgCard';
 import Grid from './Grid';
 
 
@@ -22,16 +23,17 @@ function Home(props) {
     return (
         <div className={ `bg-${currentTheme}` }
         >
-            
+            <Navbar/>  
 
         {posts.map((post)=>{
 
          return <Post key={post.id} post={post}/>;
         })}
         <Carousel/>
-        <Card/>
-        <Footer/>
-        <ImgCard/>
+      
+       
+       
+        
         <Grid/>
         
         </div>

@@ -1,4 +1,4 @@
-import Movies from "./Newpost";
+
 
  export const postArray=[
       {

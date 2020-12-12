@@ -1,13 +1,15 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
-import Slider_1 from '../img/movie1.jpeg';
-import Slider_2 from '../img/mov3.jpg';
-import Slider_3 from '../img/mov4.jpg';
+import Slider_1 from '../img/gna-farmers.jpg';
+import Slider_2 from '../img/750px.png';
+import Slider_3 from '../img/crop-health.png';
+
 
 
 function Slider() {
     return (
         <div>
+          
             <Carousel className="caro">
   <Carousel.Item interval={1000}>
     <img
