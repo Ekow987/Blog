@@ -54,8 +54,64 @@ Biological control: Heavy application of chemical fungicide would eventually lea
 •	Quickly destroy all fallow plots to avoid creating infestation reserves.
 •	Avoid overpopulating your plantain.
 </td>
+
+</tr>
+<tr  className="bito">
+      <td>4</td>
+      <td>Cabbage</td>
+      <td>Ring spot</td>
+      <td>•	Remove infected leaves and spraying fungicide.
+•	Only plant healthy seedlings on your field.
+•	Wait until the residue are completely rotted before replanting on the field
+•	Consider crop rotation for 2-3 years with a non-host crop.
+•	Treat a small quantity of each seed lot, and test germination before treating all seed.
+
+</td>
+      
      
     </tr>
+
+    <tr  className="bito">
+      <td>5</td>
+      <td>Cashew</td>
+      <td>Red rust </td>
+      <td>	•	Remove all infected parts and destroy them and replant the area with resistant varieties
+•	Clean away all debris in between plants to prevent rust from spreading
+•	Dust the plant plants with sulfur early in the season to prevent infection or to keep mild infection from spreading
+Avoid splashing water onto the leaves, as this can help spread rust.
+
+
+</td>
+</tr>
+
+<tr  className="bito">
+      <td>6</td>
+      <td>Coconut</td>
+      <td>Stem bleeding  </td>
+      <td>	•	Aviod wounding palm trunks at all stages of growth, maintenance, and during their harvest and transport for installation in a landscape.
+•	Do not drive stakes into palm trunks to secure them to trucks.
+•	Avoid contact of wounded palm stems with soil.
+•	Do not install sprinkler irrigation emitters that spray water on the coconut trunks.
+•	Place irrigation emitters at least 12 inches from a coconut palm and direct them away from the trunk.
+•	Inspect  plants for symptoms regularly
+
+</td>
+       </tr>
+
+       <tr  className="bito">
+      <td>7</td>
+      <td>Cotton</td>
+      <td>Wilt</td>
+      <td>•Choose resistant cultivars
+•	Destroy crop residues
+•	Use clean propagation materials (seed can be treated effectively with hot water).
+•	Disinfect tools, machinery and irrigation water in green house crops.
+•	Prevent stress from plants.
+or symptoms regularly
+
+</td>
+       </tr>
+       
     
   </tbody>
 </Table>  
