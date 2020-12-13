@@ -111,7 +111,64 @@ or symptoms regularly
 
 </td>
        </tr>
+       <tr  className="bito">
+      <td>8</td>
+      <td>Cowpea</td>
+      <td>Anthracnose</td>
+      <td>•	Plant resistant plant or buy healthy transplants.
+•	Plant in well-drained soil. Enrich the soil with compost inorder to help plant resist disease.
+•	Water the plant with a drip sprinkler, as opposed to an  overhead sprinkler. Dont touch the plants when they are wet
+
+
+</td>
+       </tr>
        
+       <tr  className="bito">
+      <td>9</td>
+      <td>Groundnut</td>
+      <td>Early leaf spot</td>
+      <td>•	Plant improved groundnut varieties (samnut 22 and 23) for more vigorous plants.
+•	Use correct planting density (50cm x 30cm or 50cm x 40cm)
+•	Mix crops of groundnut with maize or sorghum.
+
+
+</td>
+       </tr>
+       <tr  className="bito">
+      <td>10</td>
+      <td>Maize</td>
+      <td>Charcoal rot </td>
+      <td>•	Early planting and low plant population will decrease the competition for water and nutrient 
+•	Good water management such as strong irrigation practice, particularly when approaches the flowering stage reduce drought stress. The fungus does not survive well in moist soils.
+•	Fertility: Adequate levels of available P and K will reduce nutrient stress and encourage plant growth.
+•	Insect management: Controlling insect damage and wounding to crops will help minimize potential points of infection.
+•	Hybrid selection: Use hybrids resistant to Diplodia and Gibberella stalk rot, as these tend to offer genetic resistance to charcoal stalk rot as well.
+
+
+
+</td>
+       </tr>
+       <tr  className="bito">
+      <td>11</td>
+      <td>Mango</td>
+      <td>Leaf blight</td>
+      <td>•	Internal growth should be removed, leaving only the peripheral foliage. Prune defoliate branch terminals and mummified inflorescences during the growth season and clip spent fruit stalks during harvest.
+•	Apply fertilizer sparingly and with caution. Too much fertilizer encourages a rapid leaf flush and if this occurs during periods of frequent wet weather, tress can become diseased. The best time to apply fertilizers is immediately following harvest so that tress produce an autumn flush.
+
+</td>
+       </tr>
+       
+       <tr  className="bito">
+      <td>13</td>
+      <td>Oil Palm</td>
+      <td>Leaf blight</td>
+      <td>•	Monitor palms and palm stumps for the conks.
+•	Remove the conk and place in a trash receptacle that will be incinerated or delivered to a landfill. Do not place in trash that will be recycled in the landscape.
+
+
+</td>
+       </tr>
+    
     
   </tbody>
 </Table>  
